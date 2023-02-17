@@ -1,0 +1,8 @@
+#!/bin/bash
+# set fileName=%1
+# set fileExt=%2
+
+# echo %1 %2
+# magick convert "$($fileName).$($fileExt)" -resize 640x "$($fileName)-sm.$($fileExt)"
+
+echo "Hello, world!"
